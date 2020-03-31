@@ -71,7 +71,7 @@ Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microso
 
 ## Windows Virtual Desktop Partner Links
 
-#### Partner to Partner Channel Readiness
+#### Partner to Partner Channel Readiness Series
 
 [Leverage the Ecosystem (Partner to Partner - P2P](https://msuspartners.eventbuilder.com/P2Pchannelreadiness)
 
