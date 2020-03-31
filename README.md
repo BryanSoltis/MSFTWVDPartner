@@ -73,7 +73,7 @@ Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microso
 
 #### Partner to Partner Channel Readiness Series
 
-[Leverage the Ecosystem (Partner to Partner - P2P](https://msuspartners.eventbuilder.com/P2Pchannelreadiness)
+[Leverage the Ecosystem Partner to Partner - P2P](https://msuspartners.eventbuilder.com/P2Pchannelreadiness)
 
 #### Citrix Cloud on Azure
 
@@ -106,7 +106,7 @@ Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microso
 
 [Nerdio for Azure Free Trial](https://app.nerdio.net/nfa/account/registration?__hstc=65186033.5cec0d72fe2e3a583ee2a9212d7166ec.1580979747199.1584653235040.1585665689615.4&__hssc=65186033.1.1585665689615&__hsfp=2526521757&_ga=2.148053936.623518905.1585665689-324408334.1580979746)
 
-[How to Package Azure (Easy Packaging for MSPs](https://www.youtube.com/watch?time_continue=2&v=7bbg5dqfX08&feature=emb_logo)
+[How to Package Azure Easy Packaging for MSPs](https://www.youtube.com/watch?time_continue=2&v=7bbg5dqfX08&feature=emb_logo)
 
 #### CloudJumper
 
@@ -123,3 +123,12 @@ Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microso
 #### Liquidware
 
 #### Login VSI
+
+
+The MIT License (MIT) Copyright © 2020
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE
