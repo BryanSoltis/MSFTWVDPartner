@@ -4,9 +4,10 @@
 
 ### Table of Content
 
-**BOM** - Resources to help with building a WVD Native Solution Statement of Work includeing comments on Cloud adoption Framework alignment.
+**BOM**(/BOM) - Resources to help with building a WVD Native Solution Statement of Work includeing comments on Cloud adoption Framework alignment.
 
 **Presentations** - Powerpints to help with customer conversations and support customer technical team onboarding for management.
+
 **Pricing** - Pricing Configurator excel for WVD Pricing Scenarios for customer conversations.
 
 **Reference Archtectures** - Example WVD Archtecture in Azure Virtual Data center.
