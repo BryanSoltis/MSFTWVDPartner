@@ -19,8 +19,6 @@
 #### Partner Resources and Tools
 [Windows Virtual Desktop documentation page](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview)
 
-
-
 [Windows Virtual Desktop Partner Landing Zone](https://www.microsoft.com/azure/partners/b/migrate/windows-virtual-desktop)
 
 [Windows Virtual Desktop Sales and Busines Value Fundamentals Video Series](https://partner.microsoft.com/en-us/asset/collection/windows-virtual-desktop-sales-and-business-value-fundamentals#/)
@@ -37,14 +35,14 @@
 
 #### VDI Best Practices
 
+[Virtual machine sizing guidance](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/virtual-machine-recs)
+
 [Recommended settings for VDI desktops](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/rds-vdi-recommendations)
 
 [Prepare and customize a master VHD image](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-customize-master-image#disable-automatic-updates)
 
-[Windows Virtual Desktop Custom RDP Properties(https://docs.microsoft.com/en-us/azure/virtual-desktop/customize-rdp-properties)
+[Windows Virtual Desktop Custom RDP Properties](https://docs.microsoft.com/en-us/azure/virtual-desktop/customize-rdp-properties)
 
 [Supported Remote desktop RDP file settings](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/rdp-files?context=/azure/virtual-desktop/context/context)
 
-
-
-[Differences in Remote client capabilities](
+[Differences in Remote client capabilities, Compare RDS Client Apps](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-app-compare)
