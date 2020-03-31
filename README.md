@@ -1,5 +1,3 @@
-# MSFTWVDPartner
-
 ## Welcome to the US Partner Windows virtual Desktop Resource Repo
 
 ### Table of Content
@@ -33,7 +31,7 @@
 
 [Windows Virtual Desktop Experience Estimator tool](https://azure.microsoft.com/services/virtual-desktop/assessment/)
 
-##### Customer Stories
+#### Customer Stories
 
 [Ferguson](https://myignite.techcommunity.microsoft.com/sessions/81955?source=sessions)
 
@@ -55,7 +53,11 @@
 
 [Scale session hosts using Azure Automation](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script)
 
+[Configure Profile Container and Office for concurrent connections and multiple connections](https://docs.microsoft.com/en-us/fslogix/configure-concurrent-multiple-connections-ht)
 
+[Configure storage permissions for use with Profile Containers and Office Containers](https://docs.microsoft.com/en-us/fslogix/fslogix-storage-config-ht)
+
+[Configure Cloud Cache to redirect profile containers or office container to multiple Providers](https://docs.microsoft.com/en-us/fslogix/configure-cloud-cache-tutorial)
 
 #### Migration and Annoucement links
 
@@ -67,7 +69,7 @@ Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microso
 
 [Desktop virtualization using Windows Virtual Desktop-service architecture](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/media/wvd-poster-download.png?ranMID=24542&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-IKz3NNkifhRZcwnTRzfRyg&epi=je6NUbpObpQ-IKz3NNkifhRZcwnTRzfRyg&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__kfcfjsmqf0kftwdbkk0sohznxv2xn2m9qtwls31g00)(7593)(1243925)(je6NUbpObpQ-IKz3NNkifhRZcwnTRzfRyg)()&irclickid=_kfcfjsmqf0kftwdbkk0sohznxv2xn2m9qtwls31g00)
 
-### Windows Virtual Desktop Partner Links
+## Windows Virtual Desktop Partner Links
 
 #### Partner to Partner Channel Readiness
 
@@ -78,6 +80,10 @@ Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microso
 [Reduce IT costs and increase efficiency with cloud VDI solutions on Microsoft Azure](https://www.citrix.com/global-partners/microsoft/azure.html)
 
 [Citrix Virtual Apps and Desktops Service on Azure](https://docs.citrix.com/en-us/tech-zone/design/reference-architectures/virtual-apps-and-desktops-azure.html)
+
+[Simplify Windows 10 Enterprise on Azure deployment and management at scale](https://www.citrix.com/global-partners/microsoft/windows-10-azure.html)
+
+[]()
 
 #### Horizon cloud on Azure with Windows Virtual Desktop
 [Quick Start Tutorial for VMware Horizon Cloud Service on Microsoft Azure](https://techzone.vmware.com/quick-start-tutorial-vmware-horizon-cloud-service-microsoft-azure)
@@ -94,4 +100,16 @@ Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microso
 
 [Horizon Cloud on Microsoft Azure Hands-On-Lab](https://labs.hol.vmware.com/HOL/catalogs/lab/6543)
 
+#### Nerdio
 
+[Nerdio WVD Manager](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/nerdio.nerdio_wvd_manager?tab=Overview)
+
+[Nerdio for Azure Free Trial](https://app.nerdio.net/nfa/account/registration?__hstc=65186033.5cec0d72fe2e3a583ee2a9212d7166ec.1580979747199.1584653235040.1585665689615.4&__hssc=65186033.1.1585665689615&__hsfp=2526521757&_ga=2.148053936.623518905.1585665689-324408334.1580979746)
+
+#### CloudJumper
+
+[Cloud Workspace for Azure](https://cloudjumper.com/cloud-workspace-for-azure/)
+
+[CloudJumper Quick CWMS Demo](https://www.youtube.com/watch?v=H_29o7EkHso)
+
+#### Coming Soon : Nasuni, Lakeside, Liquidware, Login VSI
