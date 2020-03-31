@@ -46,3 +46,13 @@
 [Supported Remote desktop RDP file settings](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/rdp-files?context=/azure/virtual-desktop/context/context)
 
 [Differences in Remote client capabilities, Compare RDS Client Apps](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-app-compare)
+
+#### Migration and Annoucement links
+
+[Accelerate your RDS and VDI migration to Windows Virtual Desktop](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/accelerate-your-rds-and-vdi-migration-to-windows-virtual-desktop/ba-p/1079005)
+
+Ignite [A real-world look at Windows Virtual Desktop, the best virtualization experience, delivered on Azure](https://myignite.techcommunity.microsoft.com/sessions/81955?source=sessions)
+
+Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microsoft.com/sessions/81693?source=sessions)
+
+[Desktop virtualization using Windows Virtual Desktop-service architecture](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/media/wvd-poster-download.png?ranMID=24542&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-IKz3NNkifhRZcwnTRzfRyg&epi=je6NUbpObpQ-IKz3NNkifhRZcwnTRzfRyg&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__kfcfjsmqf0kftwdbkk0sohznxv2xn2m9qtwls31g00)(7593)(1243925)(je6NUbpObpQ-IKz3NNkifhRZcwnTRzfRyg)()&irclickid=_kfcfjsmqf0kftwdbkk0sohznxv2xn2m9qtwls31g00)
