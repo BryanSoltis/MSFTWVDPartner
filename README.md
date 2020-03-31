@@ -83,7 +83,7 @@ Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microso
 
 [Simplify Windows 10 Enterprise on Azure deployment and management at scale](https://www.citrix.com/global-partners/microsoft/windows-10-azure.html)
 
-[]()
+[Citrix on Azure: Deployment Deep Dive](https://www.citrix.com/fr-fr/products/citrix-workspace/form/technology-in-practice-webinar-april/)
 
 #### Horizon cloud on Azure with Windows Virtual Desktop
 [Quick Start Tutorial for VMware Horizon Cloud Service on Microsoft Azure](https://techzone.vmware.com/quick-start-tutorial-vmware-horizon-cloud-service-microsoft-azure)
@@ -104,12 +104,22 @@ Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microso
 
 [Nerdio WVD Manager](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/nerdio.nerdio_wvd_manager?tab=Overview)
 
-[Nerdio for Azure Free Trial](https://app.nerdio.net/nfa/account/registration?__hstc=65186033.5cec0d72fe2e3a583ee2a9212d7166ec.1580979747199.1584653235040.1585665689615.4&__hssc=65186033.1.1585665689615&__hsfp=2526521757&_ga=2.148053936.623518905.1585665689-324408334.1580979746)
+[Nerdio for Azure Free Trial](https://app.nerdio.net/nfa/account/registration?__hstc=65186033.5cec0d72fe2e3a583ee2a9212d7166ec.1580979747199.1584653235040.1585665689615.4&__hssc=65186033.1.1585665689615&__hsfp=2526521757&_ga=2.148053936.623518905.1585665689-324408334.1580979746
+
+[How to Package Azure (Easy Packaging for MSPs](https://www.youtube.com/watch?time_continue=2&v=7bbg5dqfX08&feature=emb_logo)
 
 #### CloudJumper
 
 [Cloud Workspace for Azure](https://cloudjumper.com/cloud-workspace-for-azure/)
 
+[Cloud Workspace for Azure]
+
 [CloudJumper Quick CWMS Demo](https://www.youtube.com/watch?v=H_29o7EkHso)
 
-#### Coming Soon : Nasuni, Lakeside, Liquidware, Login VSI
+#### Nasuni
+
+#### Lakeside
+
+#### Liquidware
+
+#### Login VSI
