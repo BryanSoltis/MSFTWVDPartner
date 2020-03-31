@@ -10,9 +10,9 @@
 
 [**Pricing**](/Pricing) - Pricing Configurator excel for WVD Pricing Scenarios for customer conversations.
 
-[**Reference Archtectures**]("/Reference Archtectures") - Example WVD Archtecture in Azure Virtual Data center.
+[**Reference Archtectures**](/Reference Archtectures) - Example WVD Archtecture in Azure Virtual Data center.
 
-[**Scenario Deployment Guides**](/"Scenario Deployment Guides") - 9 Windows Virtual Desktop Scenario deployment guides.
+[**Scenario Deployment Guides**](/Scenario Deployment Guides) - 9 Windows Virtual Desktop Scenario deployment guides.
 
 
 
