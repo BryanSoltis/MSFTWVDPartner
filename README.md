@@ -56,3 +56,20 @@ Ignite [A real-world look at Windows Virtual Desktop, the best virtualization ex
 Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microsoft.com/sessions/81693?source=sessions)
 
 [Desktop virtualization using Windows Virtual Desktop-service architecture](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/media/wvd-poster-download.png?ranMID=24542&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-IKz3NNkifhRZcwnTRzfRyg&epi=je6NUbpObpQ-IKz3NNkifhRZcwnTRzfRyg&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=(ir__kfcfjsmqf0kftwdbkk0sohznxv2xn2m9qtwls31g00)(7593)(1243925)(je6NUbpObpQ-IKz3NNkifhRZcwnTRzfRyg)()&irclickid=_kfcfjsmqf0kftwdbkk0sohznxv2xn2m9qtwls31g00)
+
+### Windows Virtual Desktop Partner Links
+
+#### Horizon cloud on Vmware
+[Quick Start Tutorial for VMware Horizon Cloud Service on Microsoft Azure](https://techzone.vmware.com/quick-start-tutorial-vmware-horizon-cloud-service-microsoft-azure)
+
+[https://techzone.vmware.com/resource/workspace-one-and-horizon-reference-architecture#component_design_horizon_cloud](https://techzone.vmware.com/resource/workspace-one-and-horizon-reference-architecture#component_design_horizon_cloud)
+
+[Workspace ONE and Horizon Reference Architecture](https://techzone.vmware.com/resource/workspace-one-and-horizon-reference-architecture)
+
+[Three Part Video Series on Horizon Cloud on Microsoft Azure](https://blogs.vmware.com/euc/2017/10/deploying-using-vmware-horizon-cloud-microsoft-azure-new-video-series.html)
+
+[Setup and preparation of Azure](https://www.youtube.com/watch?v=fuyzBuzNWnQ&t=146s)
+
+[Horizon Cloud on Microsoft Azure Learning Path](https://techzone.vmware.com/mastering-horizon-cloud-microsoft-azure)
+
+[Horizon Cloud on Microsoft Azure Hands-On-Lab](https://labs.hol.vmware.com/HOL/catalogs/lab/6543)
