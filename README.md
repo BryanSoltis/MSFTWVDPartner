@@ -14,5 +14,8 @@
 
 [**Scenario Deployment Guides**](/Scenario%20Deployment%20Guides) - 9 Windows Virtual Desktop Scenario deployment guides.
 
+### Important Links for Partners
 
-
+####
+[Windows Virtual Desktop Partner Landing Zone](https://www.microsoft.com/azure/partners/b/migrate/windows-virtual-desktop)
+[Windows Virtual Desktop Sales and Busines Value Fundamentals Video Series](https://partner.microsoft.com/en-us/asset/collection/windows-virtual-desktop-sales-and-business-value-fundamentals#/)
