@@ -104,7 +104,7 @@ Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microso
 
 [Nerdio WVD Manager](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/nerdio.nerdio_wvd_manager?tab=Overview)
 
-[Nerdio for Azure Free Trial](https://app.nerdio.net/nfa/account/registration?__hstc=65186033.5cec0d72fe2e3a583ee2a9212d7166ec.1580979747199.1584653235040.1585665689615.4&__hssc=65186033.1.1585665689615&__hsfp=2526521757&_ga=2.148053936.623518905.1585665689-324408334.1580979746
+[Nerdio for Azure Free Trial](https://app.nerdio.net/nfa/account/registration?__hstc=65186033.5cec0d72fe2e3a583ee2a9212d7166ec.1580979747199.1584653235040.1585665689615.4&__hssc=65186033.1.1585665689615&__hsfp=2526521757&_ga=2.148053936.623518905.1585665689-324408334.1580979746)
 
 [How to Package Azure (Easy Packaging for MSPs](https://www.youtube.com/watch?time_continue=2&v=7bbg5dqfX08&feature=emb_logo)
 
