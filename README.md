@@ -112,7 +112,7 @@ Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microso
 
 [Cloud Workspace for Azure](https://cloudjumper.com/cloud-workspace-for-azure/)
 
-[Cloud Workspace for Azure]
+[Cloud Workspace for Azure GUI](CloudJumper GPU Illustration in Azure)
 
 [CloudJumper Quick CWMS Demo](https://www.youtube.com/watch?v=H_29o7EkHso)
 
