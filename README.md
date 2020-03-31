@@ -33,6 +33,12 @@
 
 [Windows Virtual Desktop Experience Estimator tool](https://azure.microsoft.com/services/virtual-desktop/assessment/)
 
+##### Customer Stories
+
+[Ferguson](https://myignite.techcommunity.microsoft.com/sessions/81955?source=sessions)
+
+[FIS and Coke](https://myignite.techcommunity.microsoft.com/sessions/81693?source=sessions)
+
 #### VDI Best Practices
 
 [Virtual machine sizing guidance](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/virtual-machine-recs)
@@ -47,6 +53,10 @@
 
 [Differences in Remote client capabilities, Compare RDS Client Apps](https://docs.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-app-compare)
 
+[Scale session hosts using Azure Automation](https://docs.microsoft.com/en-us/azure/virtual-desktop/set-up-scaling-script)
+
+
+
 #### Migration and Annoucement links
 
 [Accelerate your RDS and VDI migration to Windows Virtual Desktop](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/accelerate-your-rds-and-vdi-migration-to-windows-virtual-desktop/ba-p/1079005)
@@ -59,7 +69,13 @@ Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microso
 
 ### Windows Virtual Desktop Partner Links
 
-#### Horizon cloud on Vmware
+#### Partner to Partner Channel Readiness
+
+[Leverage the Ecosystem (Partner to Partner - P2P](https://msuspartners.eventbuilder.com/P2Pchannelreadiness)
+
+#### Citrix Cloud on Azure
+
+#### Horizon cloud on Azure with Windows Virtual Desktop
 [Quick Start Tutorial for VMware Horizon Cloud Service on Microsoft Azure](https://techzone.vmware.com/quick-start-tutorial-vmware-horizon-cloud-service-microsoft-azure)
 
 [https://techzone.vmware.com/resource/workspace-one-and-horizon-reference-architecture#component_design_horizon_cloud](https://techzone.vmware.com/resource/workspace-one-and-horizon-reference-architecture#component_design_horizon_cloud)
@@ -73,3 +89,9 @@ Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microso
 [Horizon Cloud on Microsoft Azure Learning Path](https://techzone.vmware.com/mastering-horizon-cloud-microsoft-azure)
 
 [Horizon Cloud on Microsoft Azure Hands-On-Lab](https://labs.hol.vmware.com/HOL/catalogs/lab/6543)
+
+#### Nerdio Windows Virtual Desktop Manager
+
+#### CloudJumper
+
+#### 
