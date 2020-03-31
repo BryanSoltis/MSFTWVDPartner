@@ -75,6 +75,10 @@ Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microso
 
 #### Citrix Cloud on Azure
 
+[Reduce IT costs and increase efficiency with cloud VDI solutions on Microsoft Azure](https://www.citrix.com/global-partners/microsoft/azure.html)
+
+[Citrix Virtual Apps and Desktops Service on Azure](https://docs.citrix.com/en-us/tech-zone/design/reference-architectures/virtual-apps-and-desktops-azure.html)
+
 #### Horizon cloud on Azure with Windows Virtual Desktop
 [Quick Start Tutorial for VMware Horizon Cloud Service on Microsoft Azure](https://techzone.vmware.com/quick-start-tutorial-vmware-horizon-cloud-service-microsoft-azure)
 
@@ -90,8 +94,4 @@ Ignite [Windows Virtual Desktop overview](https://myignite.techcommunity.microso
 
 [Horizon Cloud on Microsoft Azure Hands-On-Lab](https://labs.hol.vmware.com/HOL/catalogs/lab/6543)
 
-#### Nerdio Windows Virtual Desktop Manager
 
-#### CloudJumper
-
-#### 
